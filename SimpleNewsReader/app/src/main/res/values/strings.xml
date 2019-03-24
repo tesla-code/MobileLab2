@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple News Reader</string>
+    <string name="pref_button">Set user Prefrences</string>
+    <string name="store_user_pref">Store pref</string>
+</resources>
